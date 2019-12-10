@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode/*
+ind_adm_shp/*
+Admin*
+IND*
+Districts--.csv
+*.geojson
